@@ -1,0 +1,11 @@
+RECOMENDACION: DIABETES:
+Recuerda adecuarse a un estilo de vida saludable es fundamental para
+mantener un control optimo sobre la enfermedad.
+	a. No te saltes las comidas. La alimentacion es una parte 
+	   fundamental del control de la diabetes y contribuye a retrasar
+	   o evitar la aparicion de complicaciones.
+	b. Mantente hidratado. Las personas con diabetes tienen un mayor 
+	   riesgo de deshidratación porque un nivel elevado de glucosa en 
+	   sangre provoca que los riñones intenten eliminarla en forma de 
+	   orina.
+	c. Asiste a tus chequeos constantemente.

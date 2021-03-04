@@ -1,0 +1,12 @@
+RECOMENDACION: ESTRES:
+El estres es una parte natural de nuestras vidas cotidianas. No siempre puede
+evitar el estres en su vida, pero puede aprender a manejarlo mejor. Los 
+Institutos Nacionales de la Salud recomiendan estas medidas: 
+	a. Evita los alimentos ricos en sal o en azúcar, los muy condimentados 
+	   o especiados y los alimentos preparados en escabeche.
+	b. Evita los alimentos ricos en sal o en azúcar, los muy condimentados 
+	   o especiados y los alimentos preparados en escabeche.
+	c. Evita los alimentos ricos en sal o en azúcar, los muy condimentados 
+	   o especiados y los alimentos preparados en escabeche.
+
+

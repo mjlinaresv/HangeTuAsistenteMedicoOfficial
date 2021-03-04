@@ -1,0 +1,9 @@
+RECOMENDACION: GASTRITIS:
+	a. Intenta comer de manera fraccionada unas 4-5 veces al día.
+	b. Tómate tu tiempo para comer. Come lento y mastica bien todos 
+	   los alimentos.
+	c.Excluye de la dieta o disminuye el consumo de los alimentos y 
+	  las preparaciones ricas en grasa.
+	d. Evita los alimentos ricos en sal o en azúcar, los muy
+	   condimentados o especiados y los alimentos preparados en
+	   escabeche.

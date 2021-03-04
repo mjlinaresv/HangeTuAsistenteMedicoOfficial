@@ -1,0 +1,11 @@
+RECOMENDACION: HIPERTENSION:
+Recuerda que ademas de la toma de medicamentos, una funcion importante
+para controlar la presión arterial alta es cambiar el estilo de vida. 
+Si te adecuas a un estilo de vida saludable podras controlas la presion
+arterial al mismo tiempo que podrias tambien evitar, retrasar o reducir
+la necesidad de tomar medicamentos.
+	a. Deje de fumar.  Reducirá sus factores de riesgo.
+	b. Controle su peso, ya que este el agrega una carga a su
+	corazon.
+	c. Reduzca el consumo de sal y coma alimentos saludables.
+	d. Evite el consumo excesivo de alcohol.
